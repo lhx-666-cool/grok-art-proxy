@@ -1,4 +1,4 @@
-# Grok Imagine
+# Grok Art Proxy
 
 一个基于 Cloudflare Workers 的 Grok 图片/视频生成代理服务。
 

@@ -1,4 +1,4 @@
-name = "grok-imagine"
+name = "grok-art-proxy"
 main = "src/index.ts"
 compatibility_date = "2024-12-01"
 
@@ -11,7 +11,7 @@ mode = "smart"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "grok-imagine"
+database_name = "grok-art-proxy"
 # This will be replaced by GitHub Actions during deployment
 database_id = "YOUR_D1_DATABASE_ID"
 migrations_dir = "migrations"
